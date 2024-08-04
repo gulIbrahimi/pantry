@@ -1,30 +1,36 @@
-📦 Pantry Tracker
-Welcome to Pantry Tracker – the smart solution for managing your kitchen inventory with ease and efficiency! 🍽️
+# 📦 **Pantry Tracker** 
 
-🚀 Project Overview
+Welcome to **Pantry Tracker** – the smart solution for managing your kitchen inventory with ease and efficiency! 🍽️
+
+## 🚀 **Project Overview**
+
 Pantry Tracker is a modern web application designed to help you keep track of your pantry items effortlessly. Built using the latest technologies, this app features a clean and intuitive interface, making inventory management a breeze. Whether you're managing ingredients for your next meal or keeping track of pantry staples, Pantry Tracker is here to assist you.
 
-🛠️ Technologies Used
-Next.js: The React framework for server-side rendering and static site generation.
-Firebase: Real-time database and authentication services.
-Vercel: Deployment platform for seamless CI/CD and scaling.
-Material-UI (MUI): A set of React components that implement Google's Material Design.
-Google AutoML & GCP Vertex AI: For advanced image recognition and classification.
-OpenAI API: For additional features like recipe suggestions.
-🌟 Features
-CRUD Operations: Add, edit, delete, and search for pantry items with ease.
-Image Recognition: Utilize advanced image recognition to categorize and manage items.
-Responsive Design: A beautiful and functional layout that works seamlessly on any device.
-Recipe Suggestions: Get recipe ideas based on the ingredients you have.
-CI/CD Integration: Automatically deploy updates to your live application with Vercel.
-📂 Getting Started
+## 🛠️ **Technologies Used**
+
+- **Next.js:** The React framework for server-side rendering and static site generation.
+- **Firebase:** Real-time database and authentication services.
+- **Vercel:** Deployment platform for seamless CI/CD and scaling.
+- **Material-UI (MUI):** A set of React components that implement Google's Material Design.
+- **Google AutoML & GCP Vertex AI:** For advanced image recognition and classification.
+- **OpenAI API:** For additional features like recipe suggestions.
+
+## 🌟 **Features**
+
+- **CRUD Operations:** Add, edit, delete, and search for pantry items with ease.
+- **Image Recognition:** Utilize advanced image recognition to categorize and manage items.
+- **Responsive Design:** A beautiful and functional layout that works seamlessly on any device.
+- **Recipe Suggestions:** Get recipe ideas based on the ingredients you have.
+- **CI/CD Integration:** Automatically deploy updates to your live application with Vercel.
+
+## 📂 **Getting Started**
+
 To get started with Pantry Tracker, follow these steps:
 
-Clone the Repository:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/gulIbrahimi/pantry.git
 
-bash
-Copy code
-git clone https://github.com/gulIbrahimi/pantry.git
 Navigate to the Project Directory:
 
 bash
